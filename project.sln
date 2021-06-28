@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project", "proj-file-multip
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project", "packages-config-single-target-framework\project.csproj", "{81394F8B-BE95-4798-BD4D-A72E25407FD9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project", "packages-config-multiple-target-frameworks\project.csproj", "{20F22687-63EF-4BBA-BC13-7784A59C38A8}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,5 +60,17 @@ Global
 		{81394F8B-BE95-4798-BD4D-A72E25407FD9}.Release|x64.Build.0 = Release|Any CPU
 		{81394F8B-BE95-4798-BD4D-A72E25407FD9}.Release|x86.ActiveCfg = Release|Any CPU
 		{81394F8B-BE95-4798-BD4D-A72E25407FD9}.Release|x86.Build.0 = Release|Any CPU
+		{20F22687-63EF-4BBA-BC13-7784A59C38A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F22687-63EF-4BBA-BC13-7784A59C38A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F22687-63EF-4BBA-BC13-7784A59C38A8}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{20F22687-63EF-4BBA-BC13-7784A59C38A8}.Debug|x64.Build.0 = Debug|Any CPU
+		{20F22687-63EF-4BBA-BC13-7784A59C38A8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{20F22687-63EF-4BBA-BC13-7784A59C38A8}.Debug|x86.Build.0 = Debug|Any CPU
+		{20F22687-63EF-4BBA-BC13-7784A59C38A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F22687-63EF-4BBA-BC13-7784A59C38A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20F22687-63EF-4BBA-BC13-7784A59C38A8}.Release|x64.ActiveCfg = Release|Any CPU
+		{20F22687-63EF-4BBA-BC13-7784A59C38A8}.Release|x64.Build.0 = Release|Any CPU
+		{20F22687-63EF-4BBA-BC13-7784A59C38A8}.Release|x86.ActiveCfg = Release|Any CPU
+		{20F22687-63EF-4BBA-BC13-7784A59C38A8}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
