@@ -68,16 +68,6 @@
   <ItemGroup Condition="'$(TargetFramework)' == 'net472'">
     <PackageReference Include="Moq" Version="4.16.1" />
   </ItemGroup>
-  <ItemGroup>
-  <PackageReference Include="Microsoft.AspNetCore.Authentication.AzureAD.UI" Version="3.1.2" />
-    <PackageReference Include="EJS" Version="1.0.0" />
-    <PackageReference Include="Handlebars.Net" Version="1.0.0-alpha2" />
-    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
-    <PackageReference Include="Microsoft.AspNet.SignalR" Version="2.4.2" />
-    <PackageReference Include="Microsoft.Owin" Version="3.0.0" />
-    <PackageReference Include="System.Text.Encodings.Web" Version="4.5.1" />
-    <PackageReference Include="TinyMCE" Version="4.8.2" />
-    <PackageReference Include="Wire" Version="1.0.0" />
-  </ItemGroup>
+  
 
 </Project>
